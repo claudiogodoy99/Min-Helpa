@@ -21,7 +21,6 @@ namespace Domain
 
         public int Id { get; set; }
         public int UsuarioId { get; set; }
-
         public double Progresso { get; private set; }
         public double HorasDeEsforco { get; private set; }
 

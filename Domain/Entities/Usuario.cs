@@ -26,10 +26,6 @@ namespace Domain.Entities
             historico.Add(hoje);
         }
 
-
-        public List<DateTime> incioApontamento;
-
-
         public ICollection<Tarefa> tarefas;
         public ICollection<DiaDeTrabalho> historico;
 

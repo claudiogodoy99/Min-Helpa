@@ -5,7 +5,7 @@ using System;
 namespace DomainTeste.TesteDeEntidades
 {
     [TestClass]
-    public class DiaDeTrabalhoTeste
+    public class DiaDeTrabalhoTest
     {
       
         [DataTestMethod]
